@@ -1,5 +1,7 @@
 # CharacterAuctionCode
 
+> Full Website: [AniQuest](https://top.gg/bot/692792115595444264)
+
 ## Summary
 
 This code is a snippet from my AniQuest discord bot game, meant to show an understanding of parsing data, using custom filters, and displaying data in an organizied way.
